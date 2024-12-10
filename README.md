@@ -23,17 +23,13 @@ Include a hyperlink to the source of your dataset used for this project. Additio
 
 Example:
 
-Dataset: https://www.kaggle.com/datasets/sansuthi/global-co2-emissions
-
-- **Country** (String) - name of the country
-- **Population** (int) - number of people in the country
-- **CO2Emissions** (double) - carbon dioxide emission in kilotons
+Dataset: https://docs.google.com/spreadsheets/d/1cpN2CBwEUBUkgaHXLLN7SkIGBSuO1zCe82EBxVqoBeQ/edit?gid=850151220#gid=850151220 
 
 ## UML Diagram
 
 Put and image of your UML Diagram here. Upload the image of your UML Diagram to your repository, then use the Markdown syntax to insert your image here. Make sure your image file name is one work, otherwise it might not properly get display on this README.
 
-![UML Diagram for my project](nameOfImageFileHere.png)
+
 
 ## Video Demo
 
@@ -45,7 +41,6 @@ Record a short video of your abstract art animation to display here on your READ
 - Upload the thumbnail image to your repo.
 - Use the following markdown
 
-[![Thumbnail for my projet](nameOfThumbnail.png)](youtube-URL-here)
 
 ## Description
 
